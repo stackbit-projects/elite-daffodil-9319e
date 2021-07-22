@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/clovatel-logo-png-1.png"
     },
     "footer": {
         "has_nav": true,
