@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/clovatel-logo-png-1.png"
+        "logo": "/images/clovatel-logo-png-1.png",
+        "logo_alt": "Logo"
     },
     "footer": {
         "has_nav": true,
